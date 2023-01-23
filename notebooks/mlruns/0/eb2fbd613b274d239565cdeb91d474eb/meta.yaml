@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sean.cornillie/Education/LearningSparkV2/Spark_Dev/notebooks/mlruns/0/eb2fbd613b274d239565cdeb91d474eb/artifacts
+end_time: 1674512288071
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eb2fbd613b274d239565cdeb91d474eb
+run_name: random-forest
+run_uuid: eb2fbd613b274d239565cdeb91d474eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674512272835
+status: 3
+tags: []
+user_id: sean.cornillie

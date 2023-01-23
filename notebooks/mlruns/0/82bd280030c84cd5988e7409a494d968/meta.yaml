@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sean.cornillie/Education/LearningSparkV2/Spark_Dev/notebooks/mlruns/0/82bd280030c84cd5988e7409a494d968/artifacts
+end_time: 1674512501030
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 82bd280030c84cd5988e7409a494d968
+run_name: monumental-roo-6
+run_uuid: 82bd280030c84cd5988e7409a494d968
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674512314753
+status: 3
+tags: []
+user_id: sean.cornillie
